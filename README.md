@@ -1,17 +1,16 @@
 # 🖥️ Sirivennela Nimmakuri
 ---
 
-I'm a **Software Engineer Trainee** with a growing passion for **Full Stack Development**. I'm currently focused on building a solid foundation in both front-end and back-end technologies. I enjoy collaborating with others and learning new tools that improve productivity and performance.
+I'm a **Software Engineer Trainee**. I'm currently focused on building a solid foundation in both front-end and back-end technologies. I enjoy collaborating with others and learning new tools that improve productivity and performance.
 
 ---
 
 ## 👋 About Me
 
 - 🌍  Hi, I'm **Sirivennela Nimmakuri**
-- 🖥️  I'm intrested in **Full Stack Development**
 - ✉️  Contact me at: **sirivennelanimmakuri@gmail.com**
 - 🧠  I'm currently learning **Python**
-- 🤝  **Pronouns:** she/her
+- 🤝  **Pronouns** she/her
 - 🏐  I'm also a **Kabaddi player**
 
 ---
@@ -41,16 +40,8 @@ I'm a **Software Engineer Trainee** with a growing passion for **Full Stack Deve
 
 ---
 
-### Badges
+📚 Education
+🎓 Bachelor of Technology Data Science
+NRI Institute Of Technology Aagiripalli(2020–2024)
 
-<b>My GitHub Stats</b>
-
-<a href="http://www.github.com/sirivennela02"><img src="https://github-readme-stats.vercel.app/api?username=sirivennela02&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="sirivennela02's GitHub stats" /></a>
-
-<a href="http://www.github.com/sirivennela02"><img src="https://github-readme-streak-stats.herokuapp.com/?user=sirivennela02&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
-
-<a href="https://github.com/sirivennela02" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sirivennela02&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
-
-<b>Top Repositories</b>
-
-<div width="100%" align="center"></div><br /><br /><br /><br /><br /><b><br><br/>
+---
