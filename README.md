@@ -1,4 +1,4 @@
-Hi 👋 My name is Sirivennela Nimmakuri
+
 ======================================
 
 I'm a \*\*Software Engineer Trainee\*\* with a growing passion for \*\*Full Stack Development\*\*. I love building clean, scalable, and user-focused web applications from front to back.
@@ -28,7 +28,7 @@ As a recent trainee in the software engineering field, I’m focused on developi
                     <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" alt="Github" title="Github" />
                     </picture>
                     </a>
-                      <a href="https://www.gitlab.com/sirivennela02" target="_blank" rel="noreferrer">
+                      <a href="https://www.gitlab.com/s" target="_blank" rel="noreferrer">
                     <picture>
                     <source media="(prefers-color-scheme: dark)" srcset="undefined" />
                     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/gitlab.svg" />
@@ -44,4 +44,5 @@ As a recent trainee in the software engineering field, I’m focused on developi
                     </a></p>### Badges<b>My GitHub Stats</b><a
                       href="http://www.github.com/sirivennela02"><img src="https://github-readme-stats.vercel.app/api?username=sirivennela02&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="sirivennela02's GitHub stats" /></a><a
                       href="http://www.github.com/sirivennela02"><img
+                  src="https://github-readme-streak-stats.herokuapp.com/?user=sirivennela02&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a><a href="https://github.com/sirivennela02" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sirivennela02&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a><b>Top Repositories</b><div width="100%" align="center"></div><br /><br /><br /><br /><br /><br /><br />
                   src="https://github-readme-streak-stats.herokuapp.com/?user=sirivennela02&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a><a href="https://github.com/sirivennela02" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sirivennela02&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a><b>Top Repositories</b><div width="100%" align="center"></div><br /><br /><br /><br /><br /><br /><br />
