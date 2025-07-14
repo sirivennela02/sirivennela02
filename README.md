@@ -45,3 +45,11 @@ I'm a **Software Engineer Trainee**. I'm currently focused on building a solid f
 NRI Institute Of Technology Aagiripalli(2020–2024)
 
 ---
+
+🏅 Certifications
+
+https://www.credly.com/badges/f65d314e-5803-4cff-9737-a2584496d465/public_url
+ 
+ Microsoft Certified: Azure Fundamentals
+Microsoft Certified: Azure Fundamentals
+Issued by Microsoft
