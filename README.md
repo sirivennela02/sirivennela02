@@ -16,12 +16,6 @@ I'm a **Software Engineer Trainee** with a growing passion for **Full Stack Deve
 
 ---
 
-<a href="https://www.github.com/sirivennela02" target="_blank" rel="noreferrer">
-  <img src="https://img.shields.io/github/followers/sirivennela02?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" />
-</a>
-
----
-
 ## 🛠️ Skills
 
 <p align="left">
