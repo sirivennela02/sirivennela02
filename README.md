@@ -10,8 +10,7 @@ As a recent trainee in the software engineering field, I’m focused on developi
 *   🖥️  See my portfolio at [MyPortfolio](http://portfolio.com)
 *   ✉️  You can contact me at [sirivennelanimmakuri@gmail.com](mailto:sirivennelanimmakuri@gmail.com)
 *   🧠  I'm learning Python
-*   🤝  I'm open to collaborating on sirivennelanimmakuri@gmail.com
-*   ⚡  I'm Secreatly a Sofia...but don't tell anyone<a href="https://www.github.com/sirivennela02" target="_blank" rel="noreferrer"><img
+*   🤝  I'm open to collaborating on sirivennelanimmakuri@gmail.com   <a href="https://www.github.com/sirivennela02" target="_blank" rel="noreferrer"><img
                   src="https://img.shields.io/github/followers/sirivennela02?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>### Skills
     Badges
 My GitHub Stats
