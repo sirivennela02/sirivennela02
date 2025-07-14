@@ -8,7 +8,7 @@ I'm a **Software Engineer Trainee** with a growing passion for **Full Stack Deve
 ## 👋 About Me
 
 - 🌍  Hi, I'm **Sirivennela Nimmakuri**
-- 🖥️  I'm interested in **Full Stack Development**
+- 🖥️  I'm intrested in **Full Stack Development**
 - ✉️  Contact me at: **sirivennelanimmakuri@gmail.com**
 - 🧠  I'm currently learning **Python**
 - 🤝  **Pronouns:** she/her
